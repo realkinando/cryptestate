@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+    font-family: 'Lexend Deca';
+}
+
+.bgImage{
+    background-image: url("cryptestate.jpg");
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: 100vh;
+    height: 100vh;
+}
+
+h1{
+    font-family: 'Playfair Display';
+    font-weight: 700;
+    font-size: 7em;
+    color: white;
+}
+
+h3{
+    font-weight: bolder;
+    line-height: 160%;
+}
+
+mark{
+    color:black;
+    background-color:white;
+}
+
+.contactMark{
+    color:black;
+    background-color: gold;
+    font-size: 1.1em;
+    font-weight: bolder;
+}
+
+.beigeMark{
+    color: white;
+    background-color: rgba(0,0,0, 0.3);
+    font-size: inherit;
+}
+
+h5{
+    text-align: justify;
+    line-height: 165%;
+}
+
+.bm{
+    font-family: 'Roboto';
+    font-weight: 900;
+    color: gold;
+}
+
+.bx{
+    font-family: 'Major Mono Display';
+    font-weight: bolder;
+    color: gold;
+    text-shadow:1px 0 0 currentColor,2px 0 0 currentColor;
+}
+
+a:hover{
+    color: blue;
+}
+
+.footer{
+    line-height: 60px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+}
